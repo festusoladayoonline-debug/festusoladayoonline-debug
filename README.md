@@ -1,8 +1,8 @@
 # Hi there, I'm Festus Ogungbemiro 👋 
 
-### Machine Learning Researcher | Computational Chemist | Deep Learning Specialist
+### Machine Learning Researcher | Computational Drugs Discovery Chemist | Deep Learning Specialist
 
-I bridge the gap between theoretical machine learning and impactful drug discovery. My work integrates deep learning, statistical modeling, and high-fidelity computational simulations (DFT, MD) to transform high-dimensional biological data into actionable insights.
+I bridge the gap between theoretical machine learning and impactful drug discovery. My work integrates machine learning, deep learning, statistical modeling, and high-fidelity computational simulations (DFT, MD) to transform high-dimensional biological data into actionable insights.
 
 ---
 
